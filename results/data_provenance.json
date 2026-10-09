@@ -1,0 +1,26 @@
+[
+  {
+    "file": "dataset_part_1.csv",
+    "source": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv",
+    "sha256": "606fecaf0209f41cc79aeb383b8519ba854bab8b198762952bf0c3c34e0c6c6f",
+    "rows": 90
+  },
+  {
+    "file": "dataset_part_2.csv",
+    "source": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_2.csv",
+    "sha256": "176e74024eb330504fc392a2784dc0b25a605f5748d2f7df6d490f073c08edeb",
+    "rows": 90
+  },
+  {
+    "file": "spacex_launch_geo.csv",
+    "source": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_geo.csv",
+    "sha256": "7c901d477e8b7916d975bb5dced8f6e5ac0bd0121aa27f3796659a289eb7013a",
+    "rows": 56
+  },
+  {
+    "file": "spacex_launch_dash.csv",
+    "source": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv",
+    "sha256": "e19fe7a7870631d66c9c08c57dea6306aa5d8f721bebe9edbaa3b4fc8419bfd2",
+    "rows": 56
+  }
+]

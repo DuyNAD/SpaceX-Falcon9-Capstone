@@ -1,0 +1,8 @@
+table,rows,columns
+1,15,"Flight No.; Date and time (UTC); Version, booster[a] [2][3]; Launch site; Payload; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+2,12,"Flight No.; Date and time (UTC); Version, booster[a][3]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+3,14,"Flight No.; Date and time (UTC); Version, booster[a]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+4,18,"Flight No.; Date and time (UTC); Version, booster[a]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+5,36,"Flight No.; Date and time (UTC); Version, booster[a]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+6,45,"Flight No.; Date and time (UTC); Version, booster[a]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"
+7,30,"Flight No.; Date and time (UTC); Version, booster[a]; Launch site; Payload[c]; Payload mass; Orbit; Customer; Launch outcome; Booster landing"

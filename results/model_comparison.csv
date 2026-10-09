@@ -1,0 +1,5 @@
+model,cv_accuracy,test_accuracy,test_f1,best_params
+SVM,0.8885714285714286,0.7777777777777778,0.8571428571428571,"{""model__C"": 1, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+Decision Tree,0.8742857142857142,0.7777777777777778,0.8333333333333334,"{""model__max_depth"": 3, ""model__min_samples_leaf"": 2}"
+KNN,0.8619047619047618,0.7777777777777778,0.8571428571428571,"{""model__n_neighbors"": 7, ""model__weights"": ""uniform""}"
+Logistic Regression,0.8485714285714285,0.7777777777777778,0.8571428571428571,"{""model__C"": 0.1}"
